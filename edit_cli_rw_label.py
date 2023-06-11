@@ -8,6 +8,7 @@
  * Copyright (c) 2023 Timothy Brooks, Aleksander Holynski, Alexei A. Efros.  All rights reserved.
 '''
 
+# adds a hard coded "image quality is five out of five" to the prompt
 from __future__ import annotations
 
 import math
